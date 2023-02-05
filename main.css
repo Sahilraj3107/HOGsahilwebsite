@@ -1,0 +1,20 @@
+html {
+    font-size : 22px ;
+}
+td{
+    width: 10rem;
+    border : 2px solid #666;
+   display: block #2d1ad6 ;
+}
+
+h1  {
+    border : 2px solid  #333 ;
+}
+
+a :hover {
+ cursor :pointer ;
+ color :aliceblue;
+}
+
+
+
